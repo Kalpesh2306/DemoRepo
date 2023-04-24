@@ -7,5 +7,10 @@ public class FileLibraryClass {
 	{
 		System.out.println("generic method");
 	}
+	public void filb2()
+	{
+		
+		System.out.println("generic method 2");
+	}
 
 }
